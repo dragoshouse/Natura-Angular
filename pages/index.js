@@ -470,6 +470,7 @@ const Home = (props) => {
             justify-content: center;
           }
           .home-text {
+            font-size: 2em;
             font-style: normal;
             text-align: center;
             font-family: Poppins;
@@ -618,6 +619,7 @@ const Home = (props) => {
             height: var(--dl-size-size-small);
           }
           .home-text04 {
+            font-size: x-large;
             font-style: normal;
             margin-top: var(--dl-space-space-unit);
             text-align: center;
@@ -645,6 +647,7 @@ const Home = (props) => {
             height: var(--dl-size-size-small);
           }
           .home-text08 {
+            font-size: x-large;
             font-style: normal;
             margin-top: var(--dl-space-space-unit);
             text-align: center;
@@ -672,6 +675,7 @@ const Home = (props) => {
             height: var(--dl-size-size-small);
           }
           .home-text14 {
+            font-size: x-large;
             font-style: normal;
             margin-top: var(--dl-space-space-unit);
             text-align: center;
@@ -710,6 +714,7 @@ const Home = (props) => {
             text-transform: uppercase;
           }
           .home-text22 {
+            font-size: larger;
             font-family: Poppins;
             margin-bottom: var(--dl-space-space-oneandhalfunits);
           }
@@ -750,6 +755,7 @@ const Home = (props) => {
             text-transform: uppercase;
           }
           .home-text35 {
+            font-size: x-large;
             text-align: center;
             font-family: Poppins;
             margin-bottom: var(--dl-space-space-unit);
@@ -811,6 +817,7 @@ const Home = (props) => {
           }
           .home-text53 {
             color: var(--dl-color-scheme-darkblue);
+            font-size: large;
             font-style: normal;
             text-align: center;
             font-family: Poppins;
@@ -821,6 +828,7 @@ const Home = (props) => {
           }
           .home-text54 {
             color: var(--dl-color-scheme-darkblue);
+            font-size: x-large;
             text-align: center;
             font-family: Poppins;
             margin-bottom: var(--dl-space-space-unit);
@@ -1033,6 +1041,9 @@ const Home = (props) => {
           @media (max-width: 479px) {
             .home-max-width {
               margin-top: var(--dl-space-space-unit);
+            }
+            .home-text {
+              font-size: x-large;
             }
             .home-max-width1 {
               position: relative;

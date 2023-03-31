@@ -6,18 +6,15 @@ const NavigationLinks = (props) => {
   return (
     <>
       <nav className={`navigation-links-nav ${props.rootClassName} `}>
-        <span className="navigation-links-text Navigation-Link">
-          {props.link1}
-        </span>
-        <span className="navigation-links-text1 Navigation-Link">
+        <a href="#nosotros" className="navigation-links-link Navigation-Link">
           {props.link2}
-        </span>
-        <span className="navigation-links-text2 Navigation-Link">
+        </a>
+        <a href="#productos" className="navigation-links-link1 Navigation-Link">
           {props.link3}
-        </span>
-        <span className="navigation-links-text3 Navigation-Link">
+        </a>
+        <a href="#contacto" className="navigation-links-link2 Navigation-Link">
           {props.link4}
-        </span>
+        </a>
       </nav>
       <style jsx>
         {`
@@ -27,35 +24,31 @@ const NavigationLinks = (props) => {
             align-items: center;
             flex-direction: row;
           }
-          .navigation-links-text {
-            cursor: pointer;
-            transition: 0.3s;
-          }
-          .navigation-links-text:hover {
-            color: var(--dl-color-scheme-brown);
-          }
-          .navigation-links-text1 {
+          .navigation-links-link {
             cursor: pointer;
             transition: 0.3s;
             margin-left: 41px;
+            text-decoration: none;
           }
-          .navigation-links-text1:hover {
+          .navigation-links-link:hover {
             color: var(--dl-color-scheme-brown);
           }
-          .navigation-links-text2 {
+          .navigation-links-link1 {
             cursor: pointer;
             transition: 0.3s;
             margin-left: 41px;
+            text-decoration: none;
           }
-          .navigation-links-text2:hover {
+          .navigation-links-link1:hover {
             color: var(--dl-color-scheme-brown);
           }
-          .navigation-links-text3 {
+          .navigation-links-link2 {
             cursor: pointer;
             transition: 0.3s;
             margin-left: 41px;
+            text-decoration: none;
           }
-          .navigation-links-text3:hover {
+          .navigation-links-link2:hover {
             color: var(--dl-color-scheme-brown);
           }
 
@@ -67,18 +60,15 @@ const NavigationLinks = (props) => {
               align-items: flex-start;
               flex-direction: column;
             }
-            .navigation-links-text {
-              margin-bottom: var(--dl-space-space-unit);
-            }
-            .navigation-links-text1 {
+            .navigation-links-link {
               margin-left: 0;
               margin-bottom: var(--dl-space-space-unit);
             }
-            .navigation-links-text2 {
+            .navigation-links-link1 {
               margin-left: 0;
               margin-bottom: var(--dl-space-space-unit);
             }
-            .navigation-links-text3 {
+            .navigation-links-link2 {
               margin-left: 0;
               margin-bottom: var(--dl-space-space-unit);
             }
@@ -90,7 +80,7 @@ const NavigationLinks = (props) => {
 }
 
 NavigationLinks.defaultProps = {
-  link3: 'Catálogos',
+  link3: 'Productos',
   rootClassName: '',
   link2: 'Nosotros',
   link4: 'Contáctanos',

@@ -9,8 +9,21 @@ const Home = (props) => {
     <>
       <div className="home-container">
         <Head>
-          <title>Natura</title>
-          <meta property="og:title" content="Natura" />
+          <title>
+            Natura 360: Tienda Macrobiótica en Tres Ríos para una vida saludable
+          </title>
+          <meta
+            name="description"
+            content="En Natura 360 te ofrecemos productos macrobióticos y orgánicos para llevar una vida saludable en Tres Ríos. ¡Descubre nuestro amplio catálogo ahora!"
+          />
+          <meta
+            property="og:title"
+            content="Natura 360: Tienda Macrobiótica en Tres Ríos para una vida saludable"
+          />
+          <meta
+            property="og:description"
+            content="En Natura 360 te ofrecemos productos macrobióticos y orgánicos para llevar una vida saludable en Tres Ríos. ¡Descubre nuestro amplio catálogo ahora!"
+          />
         </Head>
         <Navigation></Navigation>
         <main className="home-main">
@@ -139,9 +152,9 @@ const Home = (props) => {
               </div>
             </div>
           </div>
-          <div className="home-about section-container">
+          <div id="nosotros" className="home-about section-container">
             <div className="home-max-width2 max-content-container">
-              <div className="home-text-container1">
+              <div id="n" className="home-text-container1">
                 <span className="home-text21">nosotros</span>
                 <h2 className="home-text22">MACROBIÓTICA NATURA 360</h2>
                 <span className="home-text23">
@@ -198,7 +211,7 @@ const Home = (props) => {
               </div>
             </div>
           </div>
-          <div className="home-portofolio section-container">
+          <div id="productos" className="home-portofolio section-container">
             <div className="home-max-width3 max-content-container">
               <div className="home-text-container2">
                 <span className="home-text34">PRODUCTOS</span>
@@ -334,7 +347,7 @@ const Home = (props) => {
             </div>
           </div>
         </main>
-        <div className="home-footer section-container">
+        <div id="contacto" className="home-footer section-container">
           <div className="max-content-container">
             <div className="home-top-part">
               <div className="home-links-container">

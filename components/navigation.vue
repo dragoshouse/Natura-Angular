@@ -3,14 +3,13 @@
     <div class="navigation-max-width">
       <img
         :alt="image_alt"
-        src="https://dragoscloud.b-cdn.net/natura360/logo%20des%20(1).png"
+        src="https://dragoscloud.b-cdn.net/Logo%20ajustado%20(1).png"
         class="navigation-image"
       />
       <div class="navigation-nav">
         <navigation-links
           rootClassName="navigation-links-root-class-name17"
         ></navigation-links>
-        <button class="button-secondary button button-md">{{ button }}</button>
       </div>
       <div data-role="BurgerMenu" class="navigation-burger-menu">
         <svg viewBox="0 0 1024 1024" class="navigation-icon">
@@ -50,10 +49,6 @@ export default {
     image_src: {
       type: String,
       default: '723f3213-3595-4693-92cd-e38c70b84e24',
-    },
-    button: {
-      type: String,
-      default: 'Get in touch',
     },
     image_alt1: {
       type: String,

@@ -10,7 +10,7 @@
     <span class="blog-card-text1">
       <span>
         Excepteur sint occaecat cupidatat non proident, sunt
-        <span v-html="rawhlvl"></span>
+        <span v-html="raw5a7y"></span>
       </span>
       <span>in culpa qui and.</span>
     </span>
@@ -46,7 +46,7 @@ export default {
   },
   data() {
     return {
-      rawhlvl: ' ',
+      raw5a7y: ' ',
     }
   },
 }

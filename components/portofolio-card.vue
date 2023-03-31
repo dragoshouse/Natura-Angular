@@ -8,7 +8,6 @@
         </button>
       </div>
     </div>
-    <span class="portofolio-card-first-name">{{ project_title }}</span>
   </div>
 </template>
 
@@ -19,7 +18,7 @@ export default {
     rootClassName: String,
     project_title: {
       type: String,
-      default: 'Office Life Campaign - Boost your creativity',
+      default: 'Escribenos al +50684557360',
     },
     image_alt: {
       type: String,
@@ -79,12 +78,6 @@ export default {
 }
 .portofolio-card-see-project-container:hover {
   opacity: 1;
-}
-.portofolio-card-first-name {
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 23px;
 }
 
 

@@ -12,9 +12,14 @@
               Contamos con suplementos naturales de los laboratorios más
               reconocidos a nivel nacional e internacional.
             </span>
-            <button class="home-primary button-primary button-lg button">
+            <a
+              href="https://wa.link/5c1xuk"
+              target="_blank"
+              rel="noreferrer noopener"
+              class="home-primary button-primary button-lg button"
+            >
               Envía un mensaje a nuestro WhatsApp
-            </button>
+            </a>
           </div>
           <div class="home-gallery">
             <div class="home-container1">
@@ -45,12 +50,12 @@
               <div class="home-container4">
                 <img
                   alt="image"
-                  src="/playground_assets/rectangle%2095%20%5B4%5D-1000w.png"
+                  src="https://dragoscloud.b-cdn.net/natura360/Fachada%20Natura%203.png"
                   class="home-image4"
                 />
                 <img
                   alt="image"
-                  src="/playground_assets/rectangle%2095%20%5B5%5D-1000w.png"
+                  src="https://dragoscloud.b-cdn.net/natura360/Fachada%20Natura%204.png"
                   class="home-image5"
                 />
               </div>
@@ -81,44 +86,41 @@
                 <br />
               </h2>
               <span class="home-text07">Suplementos 100% naturales</span>
-              <span class="home-text08">SEE MORE</span>
             </div>
             <div class="home-feature-card1">
-              <svg viewBox="0 0 1024 1024" class="home-icon2">
+              <svg viewBox="0 0 1024 1024" class="home-icon02">
                 <path d="M960 608l-288 288-96-96-64 64 160 160 352-352z"></path>
                 <path
                   d="M448 768h320v-115.128c-67.22-39.2-156.308-66.11-256-74.26v-52.78c70.498-39.728 128-138.772 128-237.832 0-159.058 0-288-192-288s-192 128.942-192 288c0 99.060 57.502 198.104 128 237.832v52.78c-217.102 17.748-384 124.42-384 253.388h448v-64z"
                 ></path>
               </svg>
-              <h2 class="home-text09">
+              <h2 class="home-text08">
                 <span>Atención </span>
                 <br />
                 <span>personalizada</span>
                 <br />
               </h2>
-              <span class="home-text14">Te asesoramos según tus necesidades</span>
-              <span class="home-text15">SEE MORE</span>
+              <span class="home-text13">Te asesoramos según tus necesidades</span>
             </div>
             <div class="home-feature-card2">
-              <svg viewBox="0 0 1024 1024" class="home-icon5">
+              <svg viewBox="0 0 1024 1024" class="home-icon05">
                 <path
                   d="M956.29 804.482l-316.29-527.024v-213.458h32c17.6 0 32-14.4 32-32s-14.4-32-32-32h-320c-17.6 0-32 14.4-32 32s14.4 32 32 32h32v213.458l-316.288 527.024c-72.442 120.734-16.512 219.518 124.288 219.518h640c140.8 0 196.73-98.784 124.29-219.518zM241.038 640l206.962-344.938v-231.062h128v231.062l206.964 344.938h-541.926z"
                 ></path>
               </svg>
-              <h2 class="home-text16">
+              <h2 class="home-text14">
                 <span>Productos</span>
                 <br />
                 <span>cuidado </span>
                 <span>
                   personal
-                  <span v-html="rawzs6j"></span>
+                  <span v-html="rawuyp4"></span>
                 </span>
                 <br />
               </h2>
-              <span class="home-text22">
+              <span class="home-text20">
                 También tu apariencia es importante para nosotros 
               </span>
-              <span class="home-text23">SEE MORE</span>
             </div>
           </div>
         </div>
@@ -126,13 +128,13 @@
       <div class="home-about section-container">
         <div class="home-max-width2 max-content-container">
           <div class="home-text-container1">
-            <span class="home-text24">nosotros</span>
-            <h2 class="home-text25">MACROBIÓTICA NATURA 360</h2>
-            <span class="home-text26">
+            <span class="home-text21">nosotros</span>
+            <h2 class="home-text22">MACROBIÓTICA NATURA 360</h2>
+            <span class="home-text23">
               <span>
                 Nace de la necesidad que tienen las personas de encontrar una
                 tienda que les ayude a cuidar tanto su salud cómo su apariencia.
-                <span v-html="raw1hv8"></span>
+                <span v-html="rawtjkb"></span>
               </span>
               <br />
               <br />
@@ -140,7 +142,7 @@
                 El nombre de Natura 360 surge de la idea de que podemos ayudar a
                 las personas a cuidarse naturalmente su cuerpo y salud, desde
                 adentro hacía afuera.
-                <span v-html="rawegs7"></span>
+                <span v-html="rawu0ze"></span>
               </span>
               <br />
               <br />
@@ -148,7 +150,7 @@
                 Por eso nosotros ofrecemos suplementos naturales, productos para
                 el cuidado personal y productos de belleza que son producidos en
                 laboratorios con reconocimiento a nivel mundial y nacional.
-                <span v-html="raw71ui"></span>
+                <span v-html="rawriq2"></span>
               </span>
               <br />
               <br />
@@ -162,7 +164,7 @@
           <div class="home-image-container">
             <img
               alt="image"
-              src="https://dragoscloud.b-cdn.net/natura360/IMG-20220712-WA0001.jpg"
+              src="https://dragoscloud.b-cdn.net/natura360/Fachada%20Natura%202.png"
               class="home-image6"
             />
           </div>
@@ -171,109 +173,162 @@
       <div class="home-portofolio section-container">
         <div class="home-max-width3 max-content-container">
           <div class="home-text-container2">
-            <span class="home-text37">PRODUCTOS</span>
-            <h2 class="home-text38">
-              Echela un vistazo a nuestros catálogos de productos
+            <span class="home-text34">PRODUCTOS</span>
+            <h2 class="home-text35">
+              Echale un vistazo a una parte de los suplementos naturales que
+              tenemos para ti y tu familia.
             </h2>
-            <span class="home-text39">
+            <span class="home-text36">
               <span>
                 Si no encuentras algún producto que buscabas
-                <span v-html="rawtjgf"></span>
+                <span v-html="rawsjrw"></span>
               </span>
               <br />
-              <span>Consúltanos directamente a nuestro WhatsApp  </span>
+              <span class="home-text39">
+                Consúltanos directamente a nuestro WhatsApp  
+              </span>
               <br />
             </span>
-            <button class="home-primary1 button-secondary button-lg button">
-              Escribenos al WhatsApp
-            </button>
+            <a
+              href="https://wa.link/5c1xuk"
+              target="_blank"
+              rel="noreferrer noopener"
+              class="home-primary1 button-secondary button-lg button"
+            >
+              <span>
+                <span class="home-text42">Escríbenos</span>
+                <span><span v-html="rawgeuj"></span></span>
+                <span class="home-text44">al</span>
+                <span><span v-html="rawi9sc"></span></span>
+                <span class="home-text46">WhatsApp</span>
+              </span>
+            </a>
           </div>
           <div class="home-tab-selector-cards-container">
             <portofolio-card
-              image_src="/playground_assets/unsplash_qj15unotnh0-400h.png"
+              image_src="https://dragoscloud.b-cdn.net/natura360/MAGNESIO%201.png"
               rootClassName="portofolio-card-root-class-name"
             ></portofolio-card>
             <portofolio-card
-              image_src="/playground_assets/unsplash_wwqrpsnbpq4-400h.png"
+              image_src="https://dragoscloud.b-cdn.net/natura360/Desodorantes%20naturales.png"
               project_title="A brand-new advertising idea"
               rootClassName="portofolio-card-root-class-name5"
             ></portofolio-card>
             <portofolio-card
-              image_src="https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDEzfHxjb2NhJTIwY29sYXxlbnwwfHx8fDE2NDY5MjYyNTM&amp;ixlib=rb-1.2.1&amp;h=400"
+              image_src="https://dragoscloud.b-cdn.net/natura360/Colesterol%202.png"
               project_title="Coca-Cola Summer Concept Campaign - 2021"
               rootClassName="portofolio-card-root-class-name4"
             ></portofolio-card>
             <portofolio-card
-              image_src="https://images.unsplash.com/photo-1519420573924-65fcd45245f8?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDJ8fG51dGVsbGF8ZW58MHx8fHwxNjQ2OTI2MTky&amp;ixlib=rb-1.2.1&amp;h=400"
+              image_src="https://dragoscloud.b-cdn.net/natura360/Gastritis%20y%20Colitis.png"
               project_title="Ad Campaign - I love you as much as I love Nutella"
               rootClassName="portofolio-card-root-class-name3"
             ></portofolio-card>
             <portofolio-card
-              image_src="https://images.unsplash.com/photo-1567103472667-6898f3a79cf2?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fGNvY2ElMjBjb2xhfGVufDB8fHx8MTY0NjkyNjI1Mw&amp;ixlib=rb-1.2.1&amp;h=400"
+              image_src="https://dragoscloud.b-cdn.net/natura360/Protector%20Solar.png"
               project_title="Coca-Colla Next Door Campaign - conceptual"
               rootClassName="portofolio-card-root-class-name2"
             ></portofolio-card>
             <portofolio-card
-              image_src="https://images.unsplash.com/photo-1545231027-637d2f6210f8?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDF8fHN0YXJidWNrc3xlbnwwfHx8fDE2NDY5MjYyMzc&amp;ixlib=rb-1.2.1&amp;h=400"
+              image_src="https://dragoscloud.b-cdn.net/natura360/Fotoprotectores.png"
               project_title="Starbucks secret is a smile when you get your latte"
               rootClassName="portofolio-card-root-class-name1"
             ></portofolio-card>
           </div>
         </div>
+        <a
+          href="https://wa.link/5c1xuk"
+          target="_blank"
+          rel="noreferrer noopener"
+          class="home-primary2 button-secondary button-lg button"
+        >
+          <span>
+            <span class="home-text48">Escríbenos</span>
+            <span><span v-html="raw7g1o"></span></span>
+            <span class="home-text50">al</span>
+            <span><span v-html="raw2rhy"></span></span>
+            <span class="home-text52">WhatsApp</span>
+          </span>
+        </a>
       </div>
       <div class="home-banner section-container">
         <div class="home-max-width4 max-content-container">
-          <span class="home-text44">what are you waiting?</span>
-          <h2 class="home-text45 Heading2"><span>Let’s collaborate!</span></h2>
-          <span class="home-text47">
+          <span class="home-text53">Hacemos envíos a todo el país</span>
+          <h2 class="home-text54">Solicita tu envío por WhatsApp</h2>
+          <span class="home-text55">
             <span>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt
-              <span v-html="rawhwaf"></span>
+              Nosotros ofrecemos la facilidad de coordinar tu compra y envío desde
+              WhatsApp. 
             </span>
             <br />
             <span>
-              ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-              nostrud exercitation.
+              Solamente tienes que escribirnos, te damos la asesoría personalizada
+              y coordinamos el envío de tu producto natural.
             </span>
+            <br />
           </span>
-          <button class="home-primary2 button-lg button-secondary-white button">
-            Contact us
-          </button>
+          <a
+            href="https://wa.link/5c1xuk"
+            target="_blank"
+            rel="noreferrer noopener"
+            class="home-primary3 button-lg button-secondary-white button"
+          >
+            Solicita tu envío por WhatsApp
+          </a>
         </div>
       </div>
     </main>
-    <div class="section-container">
+    <div class="home-footer section-container">
       <div class="max-content-container">
         <div class="home-top-part">
           <div class="home-links-container">
             <div class="home-contact-container">
-              <span class="home-text51">Contact Us</span>
-              <span class="home-text52">
-                <span>2157 Village View</span>
+              <span class="home-text60">Contáctanos</span>
+              <span class="home-text61">
+                <span>Plaza Altamira, Carretera vieja a Cartago</span>
                 <br />
-                <span>
-                  Drive, Old Fort
-                  <span v-html="raw1td3"></span>
-                </span>
+                <span>Local #2 </span>
                 <br />
-                <span>
-                  Myers Florida
-                  <span v-html="rawn77a"></span>
-                </span>
+                <span class="home-text66">WhatsApp:</span>
+                <span>+506 8455-7360</span>
                 <br />
-                <span>33901</span>
+                <span class="home-text69">Correo:</span>
+                <span>info@natura360cr.com</span>
+                <br />
+                <span class="home-text72">Horario:</span>
+                <span>Lunes a Sábado de 9:00 a.m a 7:00 p.m</span>
+                <br />
               </span>
             </div>
           </div>
           <div class="home-subscribe-container">
-            <span class="home-text60">Subscribe to our newsletter</span>
-            <input
-              type="text"
-              placeholder="Enter your e-mail address"
-              class="home-textinput input"
-            />
-            <button class="button-primary button">Subscribe</button>
+            <span class="home-text75">Síguenos en nuestras redes sociales</span>
+            <div class="home-social-bar">
+              <a
+                href="https://www.instagram.com/natura360cr/"
+                target="_blank"
+                rel="noreferrer noopener"
+                class="home-link"
+              >
+                <svg viewBox="0 0 877.7142857142857 1024" class="home-icon07">
+                  <path
+                    d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"
+                  ></path>
+                </svg>
+              </a>
+              <a
+                href="https://www.facebook.com/natura360cr"
+                target="_blank"
+                rel="noreferrer noopener"
+                class="home-link1"
+              >
+                <svg viewBox="0 0 602.2582857142856 1024" class="home-icon09">
+                  <path
+                    d="M548 6.857v150.857h-89.714c-70.286 0-83.429 33.714-83.429 82.286v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571c0-144.571 88.571-223.429 217.714-223.429 61.714 0 114.857 4.571 130.286 6.857z"
+                  ></path>
+                </svg>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -281,24 +336,21 @@
       <footer class="home-max-width6 max-content-container">
         <img
           alt="image"
-          src="/playground_assets/logo1-200h.png"
+          src="https://dragoscloud.b-cdn.net/natura360/Logo%20ajustado%20(1).png"
           class="home-image7"
         />
-        <span class="home-text61">
+        <span class="home-text76">
           <span>
-            All rights recived @
-            <span v-html="rawqrf2"></span>
+            All rights recived
+            <span v-html="rawq1nc"></span>
           </span>
-          <span class="home-text63">
-            aesthetics
-            <span v-html="raw5lj5"></span>
-          </span>
+          <span class="home-text78">Macrobiótica Natura 360</span>
+          <span class="home-text79"> </span>
           <span>
             | Designed by
-            <span v-html="raww6qn"></span>
+            <span v-html="raw5fo8"></span>
           </span>
-          <span class="home-text65">teleporhq.io</span>
-          <span><span v-html="rawjd3a"></span></span>
+          <span class="home-text81">Drago&apos;s House</span>
         </span>
       </footer>
     </div>
@@ -317,18 +369,17 @@ export default {
   },
   data() {
     return {
-      rawzs6j: ' ',
-      raw1hv8: ' ',
-      rawegs7: ' ',
-      raw71ui: ' ',
-      rawtjgf: ' ',
-      rawhwaf: ' ',
-      raw1td3: ' ',
-      rawn77a: ' ',
-      rawqrf2: ' ',
-      raw5lj5: ' ',
-      raww6qn: ' ',
-      rawjd3a: ' ',
+      rawuyp4: ' ',
+      rawtjkb: ' ',
+      rawu0ze: ' ',
+      rawriq2: ' ',
+      rawsjrw: ' ',
+      rawgeuj: ' ',
+      rawi9sc: ' ',
+      raw7g1o: ' ',
+      raw2rhy: ' ',
+      rawq1nc: ' ',
+      raw5fo8: ' ',
     }
   },
   head: {
@@ -393,6 +444,7 @@ export default {
 .home-primary {
   font-family: Poppins;
   margin-bottom: var(--dl-space-space-threeunits);
+  text-decoration: none;
   background-color: rgb(185, 204, 24);
 }
 .home-gallery {
@@ -454,7 +506,8 @@ export default {
 }
 .home-image5 {
   flex: 1;
-  height: 100%;
+  width: 214px;
+  height: 208px;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-radius8);
 }
@@ -530,11 +583,6 @@ export default {
   text-align: center;
   font-family: Poppins;
 }
-.home-text08 {
-  font-size: 0.75rem;
-  margin-top: var(--dl-space-space-unit);
-  font-weight: 500;
-}
 .home-feature-card1 {
   width: 100%;
   margin: var(--dl-space-space-unit);
@@ -544,12 +592,12 @@ export default {
   flex-direction: column;
   background-color: var(--dl-color-scheme-white);
 }
-.home-icon2 {
+.home-icon02 {
   fill: #3dccc7;
   width: var(--dl-size-size-small);
   height: var(--dl-size-size-small);
 }
-.home-text09 {
+.home-text08 {
   font-style: normal;
   margin-top: var(--dl-space-space-unit);
   text-align: center;
@@ -557,15 +605,10 @@ export default {
   font-weight: 500;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text14 {
+.home-text13 {
   color: rgb(153, 153, 153);
   text-align: center;
   font-family: Poppins;
-}
-.home-text15 {
-  font-size: 0.75rem;
-  margin-top: var(--dl-space-space-unit);
-  font-weight: 500;
 }
 .home-feature-card2 {
   width: 100%;
@@ -576,12 +619,12 @@ export default {
   flex-direction: column;
   background-color: var(--dl-color-scheme-white);
 }
-.home-icon5 {
+.home-icon05 {
   fill: #3dccc7;
   width: var(--dl-size-size-small);
   height: var(--dl-size-size-small);
 }
-.home-text16 {
+.home-text14 {
   font-style: normal;
   margin-top: var(--dl-space-space-unit);
   text-align: center;
@@ -589,15 +632,10 @@ export default {
   font-weight: 500;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text22 {
+.home-text20 {
   color: rgb(153, 153, 153);
   text-align: center;
   font-family: Poppins;
-}
-.home-text23 {
-  font-size: 0.75rem;
-  margin-top: var(--dl-space-space-unit);
-  font-weight: 500;
 }
 .home-about {
   background-color: var(--dl-color-scheme-white);
@@ -614,7 +652,7 @@ export default {
   margin-right: var(--dl-space-space-unit);
   flex-direction: column;
 }
-.home-text24 {
+.home-text21 {
   color: rgb(61, 204, 199);
   font-style: normal;
   text-align: center;
@@ -624,11 +662,11 @@ export default {
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
-.home-text25 {
+.home-text22 {
   font-family: Poppins;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-text26 {
+.home-text23 {
   color: var(--dl-color-scheme-black80);
   font-family: Poppins;
   line-height: 26px;
@@ -642,6 +680,7 @@ export default {
   border-radius: var(--dl-radius-radius-radius8);
 }
 .home-portofolio {
+  padding-bottom: 86px;
   background-color: #f1f2ea;
 }
 .home-max-width3 {
@@ -653,7 +692,7 @@ export default {
   margin-bottom: var(--dl-space-space-fourunits);
   flex-direction: column;
 }
-.home-text37 {
+.home-text34 {
   color: rgb(61, 204, 199);
   font-style: normal;
   text-align: center;
@@ -663,21 +702,35 @@ export default {
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
-.home-text38 {
+.home-text35 {
   text-align: center;
   font-family: Poppins;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text39 {
+.home-text36 {
   color: var(--dl-color-scheme-black80);
   text-align: center;
   font-family: Poppins;
   line-height: 26px;
   margin-bottom: var(--dl-space-space-twounits);
 }
+.home-text39 {
+  font-style: normal;
+  font-weight: 700;
+}
 .home-primary1 {
   color: var(--dl-color-scheme-white);
-  background-color: #b9cc18;
+  text-decoration: none;
+  background-color: rgb(185, 204, 24);
+}
+.home-text42 {
+  font-family: Poppins;
+}
+.home-text44 {
+  font-family: Poppins;
+}
+.home-text46 {
+  font-family: Poppins;
 }
 .home-tab-selector-cards-container {
   width: 100%;
@@ -687,36 +740,59 @@ export default {
   grid-template-rows: repeat(2, 1fr);
   grid-template-columns: repeat(3, 1fr);
 }
+.home-primary2 {
+  color: var(--dl-color-scheme-white);
+  text-decoration: none;
+  background-color: rgb(185, 204, 24);
+}
+.home-text48 {
+  font-family: Poppins;
+}
+.home-text50 {
+  font-family: Poppins;
+}
+.home-text52 {
+  font-family: Poppins;
+}
 .home-banner {
-  background-color: var(--dl-color-scheme-brown);
+  background-color: var(--dl-color-scheme-white);
 }
 .home-max-width4 {
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
 }
-.home-text44 {
-  color: var(--dl-color-scheme-white);
+.home-text53 {
+  color: var(--dl-color-scheme-darkblue);
   font-style: normal;
   text-align: center;
+  font-family: Poppins;
   font-weight: 700;
   margin-bottom: 4px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
-.home-text45 {
-  color: var(--dl-color-scheme-white);
+.home-text54 {
+  color: var(--dl-color-scheme-darkblue);
   text-align: center;
+  font-family: Poppins;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text47 {
-  color: var(--dl-color-scheme-white);
+.home-text55 {
+  color: var(--dl-color-scheme-darkblue);
   text-align: center;
   line-height: 26px;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-primary2 {
+.home-primary3 {
+  color: var(--dl-color-scheme-white);
+  font-family: Poppins;
   margin-bottom: var(--dl-space-space-threeunits);
+  text-decoration: none;
+  background-color: rgb(185, 204, 24);
+}
+.home-footer {
+  background-color: #f1f2ea;
 }
 .home-top-part {
   width: 100%;
@@ -738,13 +814,27 @@ export default {
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text51 {
-  color: var(--dl-color-scheme-brown);
+.home-text60 {
+  color: #b9cc18;
+  font-family: Poppins;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-text52 {
+.home-text61 {
+  font-family: Poppins;
   margin-bottom: var(--dl-space-space-unit);
+}
+.home-text66 {
+  font-style: normal;
+  font-weight: 700;
+}
+.home-text69 {
+  font-style: normal;
+  font-weight: 700;
+}
+.home-text72 {
+  font-style: normal;
+  font-weight: 700;
 }
 .home-subscribe-container {
   flex: 0 0 auto;
@@ -753,24 +843,38 @@ export default {
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text60 {
-  color: var(--dl-color-scheme-brown);
+.home-text75 {
+  color: #b9cc18;
+  font-family: Poppins;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-textinput {
-  outline: none;
-  align-self: stretch;
-  padding-top: 4px;
-  border-color: rgba(0, 0, 0, 0.1);
-  padding-left: 0px;
-  border-radius: 0px;
-  margin-bottom: var(--dl-space-space-twounits);
-  padding-bottom: 4px;
-  border-top-width: 0px;
-  border-left-width: 0px;
-  border-right-width: 0px;
-  border-bottom-width: 1px;
+.home-social-bar {
+  width: 100%;
+  height: 74px;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  justify-content: center;
+}
+.home-link {
+  display: contents;
+}
+.home-icon07 {
+  fill: #3dccc7;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.home-link1 {
+  display: contents;
+}
+.home-icon09 {
+  fill: #3dccc7;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
 .home-separator {
   width: 100%;
@@ -787,13 +891,19 @@ export default {
   width: 100px;
   object-fit: cover;
 }
-.home-text61 {
+.home-text76 {
   align-self: center;
+  font-family: Poppins;
 }
-.home-text63 {
+.home-text78 {
+  font-style: normal;
   font-weight: 700;
 }
-.home-text65 {
+.home-text79 {
+  font-weight: 700;
+}
+.home-text81 {
+  font-style: normal;
   font-weight: 700;
 }
 @media(max-width: 991px) {
@@ -871,6 +981,10 @@ export default {
   .home-subscribe-container {
     width: 100%;
   }
+  .home-social-bar {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
 }
 @media(max-width: 479px) {
   .home-top-part {
@@ -886,13 +1000,19 @@ export default {
     align-items: flex-start;
     margin-bottom: 0px;
   }
+  .home-social-bar {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
   .home-max-width6 {
     flex-direction: column;
   }
   .home-image7 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text61 {
+  .home-text76 {
     text-align: center;
   }
 }

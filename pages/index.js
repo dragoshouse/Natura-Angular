@@ -991,9 +991,6 @@ const Home = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .home-text {
-              font-size: 30px;
-            }
             .home-container2 {
               display: grid;
               grid-template-columns: 1fr 1fr;
